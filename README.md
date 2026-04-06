@@ -42,7 +42,7 @@ I'm a Bioinformatics researcher with hands-on experience in transcriptomics, gen
 > Integrative Transcriptomic and Machine Learning Analysis of Breast Cancer
 
 - Analyzed RNA-seq gene expression data from 1,224 samples (TCGA-BRCA dataset)
-- Performed differential expression analysis using DESeq2 — identified 11,406 significant genes
+- Performed differential expression analysis using DESeq2 identified 11,406 significant genes
 - Visualized transcriptomic patterns using PCA, volcano plots, and heatmaps
 - Conducted Gene Ontology enrichment analysis using clusterProfiler
 - Built a Random Forest classifier (500 trees) achieving high accuracy on tumor vs normal classification
